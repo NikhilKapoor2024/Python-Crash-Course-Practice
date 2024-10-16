@@ -1,0 +1,7 @@
+In Python you can create dictionaries to store items in a key-pair value
+In Python you can interchange variables at will
+In Python you have to indent a lot
+In Python you must always make sure you import the right modules for the right purpose
+In Python you don't actually deal with a python snake
+In Python you can worry about datatypes later
+In Python you can do anything
